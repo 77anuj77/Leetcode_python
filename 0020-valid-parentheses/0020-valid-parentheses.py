@@ -1,10 +1,23 @@
 class Solution(object):
     def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
+        '''
+    for each character:
+    if opening bracket:
+        push into stack
+
+    else:
+        if stack is empty:
+            return False
+
+        if top of stack doesn't match:
+            return False
+
+        pop from stack
+
+        return stack is empty    
+        '''
         stack=[]
+
         pairs={
             ')' : '(',
             ']' : '[',
