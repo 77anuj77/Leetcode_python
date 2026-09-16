@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/77anuj77/Leetcode_python/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/77anuj77/Leetcode_python/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/77anuj77/Leetcode_python/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/77anuj77/Leetcode_python/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/77anuj77/Leetcode_python/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/77anuj77/Leetcode_python/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
