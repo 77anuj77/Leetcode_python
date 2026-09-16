@@ -14,7 +14,7 @@ class Solution(object):
 
         pop from stack
 
-        return stack is empty    
+    return stack is empty    
         '''
         stack=[]
 
@@ -29,10 +29,7 @@ class Solution(object):
                 stack.append(s[i])
 
             else :
-                if not stack:
-                    return False
-                
-                if stack[-1] != pairs[s[i]]:
+                if not stack or stack[-1] != pairs[s[i]]:
                     return False
 
                 stack.pop()
