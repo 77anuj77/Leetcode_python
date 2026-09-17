@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/77anuj77/Leetcode_python/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/77anuj77/Leetcode_python/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/77anuj77/Leetcode_python/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/77anuj77/Leetcode_python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/77anuj77/Leetcode_python/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/77anuj77/Leetcode_python/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/77anuj77/Leetcode_python/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
