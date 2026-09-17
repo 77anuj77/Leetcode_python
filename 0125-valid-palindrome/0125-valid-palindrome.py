@@ -30,8 +30,6 @@ class Solution(object):
         for i in sc:
             s=s.replace(i,'')
         s=s.replace("'",'')
-        left=0
-        right=len(s)-1
         if s==s[::-1]:
             return True
         return False
