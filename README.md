@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/77anuj77/Leetcode_python/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/77anuj77/Leetcode_python/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/77anuj77/Leetcode_python/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/77anuj77/Leetcode_python/tree/master/0118-pascals-triangle) |
 ## Trie
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/77anuj77/Leetcode_python/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/77anuj77/Leetcode_python/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
