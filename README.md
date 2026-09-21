@@ -100,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/77anuj77/Leetcode_python/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/77anuj77/Leetcode_python/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/77anuj77/Leetcode_python/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
