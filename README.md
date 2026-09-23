@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/77anuj77/Leetcode_python/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/77anuj77/Leetcode_python/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/77anuj77/Leetcode_python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/77anuj77/Leetcode_python/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/77anuj77/Leetcode_python/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/77anuj77/Leetcode_python/tree/master/0217-contains-duplicate) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/77anuj77/Leetcode_python/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/77anuj77/Leetcode_python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/77anuj77/Leetcode_python/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/77anuj77/Leetcode_python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/77anuj77/Leetcode_python/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/77anuj77/Leetcode_python/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/77anuj77/Leetcode_python/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/77anuj77/Leetcode_python/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/77anuj77/Leetcode_python/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/77anuj77/Leetcode_python/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
