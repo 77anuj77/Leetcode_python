@@ -10,13 +10,12 @@ class Solution(object):
         :type val: int
         :rtype: Optional[ListNode]
         """
-        prev = None
-        current = head
+        if head is None or head.next is None:
+            return head
 
-        while current is not None:
-            next_node = current.next
-            current.next = prev
-            prev = current
-            current = next_node
+        new_head= self.reverseList(head.next)
 
-        return prev
+        head.next.next=head
+        head.next=None
+
+        return new_head
