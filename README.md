@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/77anuj77/Leetcode_python/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/77anuj77/Leetcode_python/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/77anuj77/Leetcode_python/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/77anuj77/Leetcode_python/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/77anuj77/Leetcode_python/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/77anuj77/Leetcode_python/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/77anuj77/Leetcode_python/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
