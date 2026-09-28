@@ -13,7 +13,6 @@ class Solution(object):
             return head
 
         temp= head
-        prev=None
         while temp.next is not None:
             if temp.val== temp.next.val:
                 temp.next= temp.next.next
