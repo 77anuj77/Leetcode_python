@@ -170,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/77anuj77/Leetcode_python/tree/master/0257-binary-tree-paths) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/77anuj77/Leetcode_python/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
