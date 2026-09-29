@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/77anuj77/Leetcode_python/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/77anuj77/Leetcode_python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/77anuj77/Leetcode_python/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/77anuj77/Leetcode_python/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -140,10 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/77anuj77/Leetcode_python/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/77anuj77/Leetcode_python/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/77anuj77/Leetcode_python/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/77anuj77/Leetcode_python/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -152,5 +155,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/77anuj77/Leetcode_python/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/77anuj77/Leetcode_python/tree/master/0637-average-of-levels-in-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/77anuj77/Leetcode_python/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
