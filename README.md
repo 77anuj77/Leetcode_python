@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/77anuj77/Leetcode_python/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/77anuj77/Leetcode_python/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/77anuj77/Leetcode_python/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/77anuj77/Leetcode_python/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/77anuj77/Leetcode_python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/77anuj77/Leetcode_python/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/77anuj77/Leetcode_python/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/77anuj77/Leetcode_python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/77anuj77/Leetcode_python/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/77anuj77/Leetcode_python/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/77anuj77/Leetcode_python/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/77anuj77/Leetcode_python/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/77anuj77/Leetcode_python/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/77anuj77/Leetcode_python/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/77anuj77/Leetcode_python/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/77anuj77/Leetcode_python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/77anuj77/Leetcode_python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/77anuj77/Leetcode_python/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/77anuj77/Leetcode_python/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
