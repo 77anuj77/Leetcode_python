@@ -178,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/77anuj77/Leetcode_python/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/77anuj77/Leetcode_python/tree/master/0183-customers-who-never-order) |
 | [0262-trips-and-users](https://github.com/77anuj77/Leetcode_python/tree/master/0262-trips-and-users) |
+| [0601-human-traffic-of-stadium](https://github.com/77anuj77/Leetcode_python/tree/master/0601-human-traffic-of-stadium) |
 <!---LeetCode Topics End-->
