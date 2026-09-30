@@ -185,4 +185,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/77anuj77/Leetcode_python/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/77anuj77/Leetcode_python/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/77anuj77/Leetcode_python/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/77anuj77/Leetcode_python/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
