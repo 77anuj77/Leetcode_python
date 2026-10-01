@@ -10,13 +10,13 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        if root is None:
+        if not root:
             return 0
-        total= 0
-        if root.left is not None:
-            if root.left.left is None and root.left.right is None:
-                total+=root.left.val
-            else:
-                total+=self.sumOfLeftLeaves(root.left)
+        total=0 
+        if root.left and not root.left.left and not root.left.right:
+            total+=root.left.val
+
+        total+=self.sumOfLeftLeaves(root.left)
         total+=self.sumOfLeftLeaves(root.right)
         return total
+       
