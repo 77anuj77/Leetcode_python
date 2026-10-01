@@ -6,10 +6,6 @@
 #         self.right = right
 class Solution(object):
     def sumOfLeftLeaves(self, root):
-        """
-        :type root: Optional[TreeNode]
-        :rtype: int
-        """
         if not root:
             return 0
         total=0 
