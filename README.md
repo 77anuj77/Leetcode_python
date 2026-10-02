@@ -149,24 +149,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/77anuj77/Leetcode_python/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/77anuj77/Leetcode_python/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/77anuj77/Leetcode_python/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/77anuj77/Leetcode_python/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/77anuj77/Leetcode_python/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/77anuj77/Leetcode_python/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/77anuj77/Leetcode_python/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/77anuj77/Leetcode_python/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/77anuj77/Leetcode_python/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/77anuj77/Leetcode_python/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/77anuj77/Leetcode_python/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/77anuj77/Leetcode_python/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/77anuj77/Leetcode_python/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/77anuj77/Leetcode_python/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/77anuj77/Leetcode_python/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/77anuj77/Leetcode_python/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/77anuj77/Leetcode_python/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Backtracking
 |  |
@@ -188,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/77anuj77/Leetcode_python/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/77anuj77/Leetcode_python/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/77anuj77/Leetcode_python/tree/master/0627-swap-sex-of-employees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/77anuj77/Leetcode_python/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
