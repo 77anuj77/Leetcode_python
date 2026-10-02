@@ -24,7 +24,4 @@ class Solution(object):
     def dequeue(self):
         if not self.queue:
             return None
-
-        v=self.queue[0]
-        del self.queue[0]
-        return v
+        return self.queue.pop(0)
