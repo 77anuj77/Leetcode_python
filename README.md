@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/77anuj77/Leetcode_python/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/77anuj77/Leetcode_python/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/77anuj77/Leetcode_python/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/77anuj77/Leetcode_python/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/77anuj77/Leetcode_python/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/77anuj77/Leetcode_python/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/77anuj77/Leetcode_python/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/77anuj77/Leetcode_python/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/77anuj77/Leetcode_python/tree/master/0101-symmetric-tree) |
 | [0404-sum-of-left-leaves](https://github.com/77anuj77/Leetcode_python/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/77anuj77/Leetcode_python/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/77anuj77/Leetcode_python/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/77anuj77/Leetcode_python/tree/master/0101-symmetric-tree) |
 | [0257-binary-tree-paths](https://github.com/77anuj77/Leetcode_python/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/77anuj77/Leetcode_python/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/77anuj77/Leetcode_python/tree/master/0530-minimum-absolute-difference-in-bst) |
