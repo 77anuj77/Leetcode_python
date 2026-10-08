@@ -4,13 +4,13 @@ class Solution(object):
         depth = 0
         for ch in s:
             if ch =='(':
-                if depth >0:
+                if depth:
                     ans+=ch
                 depth += 1
 
             else:
                 depth -=1
-                if depth> 0:
+                if depth:
                     ans +=ch
 
         return ans
