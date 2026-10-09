@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/77anuj77/Leetcode_python/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/77anuj77/Leetcode_python/tree/master/0257-binary-tree-paths) |
 | [1021-remove-outermost-parentheses](https://github.com/77anuj77/Leetcode_python/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/77anuj77/Leetcode_python/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
 | ------- |
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/77anuj77/Leetcode_python/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/77anuj77/Leetcode_python/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/77anuj77/Leetcode_python/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/77anuj77/Leetcode_python/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/77anuj77/Leetcode_python/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/77anuj77/Leetcode_python/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/77anuj77/Leetcode_python/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Math
 |  |
 | ------- |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/77anuj77/Leetcode_python/tree/master/0543-diameter-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/77anuj77/Leetcode_python/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
