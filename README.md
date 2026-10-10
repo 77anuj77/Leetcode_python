@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/77anuj77/Leetcode_python/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/77anuj77/Leetcode_python/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/77anuj77/Leetcode_python/tree/master/0349-intersection-of-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/77anuj77/Leetcode_python/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Newton's Method
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/77anuj77/Leetcode_python/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/77anuj77/Leetcode_python/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/77anuj77/Leetcode_python/tree/master/0349-intersection-of-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/77anuj77/Leetcode_python/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/77anuj77/Leetcode_python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/77anuj77/Leetcode_python/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/77anuj77/Leetcode_python/tree/master/0349-intersection-of-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/77anuj77/Leetcode_python/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting
 |  |
 | ------- |
@@ -220,4 +223,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/77anuj77/Leetcode_python/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/77anuj77/Leetcode_python/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/77anuj77/Leetcode_python/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
