@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/77anuj77/Leetcode_python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/77anuj77/Leetcode_python/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/77anuj77/Leetcode_python/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/77anuj77/Leetcode_python/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/77anuj77/Leetcode_python/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/77anuj77/Leetcode_python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/77anuj77/Leetcode_python/tree/master/0242-valid-anagram) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/77anuj77/Leetcode_python/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/77anuj77/Leetcode_python/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/77anuj77/Leetcode_python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/77anuj77/Leetcode_python/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/77anuj77/Leetcode_python/tree/master/0234-palindrome-linked-list) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/77anuj77/Leetcode_python/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/77anuj77/Leetcode_python/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/77anuj77/Leetcode_python/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/77anuj77/Leetcode_python/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/77anuj77/Leetcode_python/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/77anuj77/Leetcode_python/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/77anuj77/Leetcode_python/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/77anuj77/Leetcode_python/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/77anuj77/Leetcode_python/tree/master/0121-best-time-to-buy-and-sell-stock) |
